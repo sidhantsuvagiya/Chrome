@@ -1,0 +1,197 @@
+<!-- Made By Sidhant Suvagiya :) -->
+<mjml>
+  <mj-head>
+    <mj-raw>
+      <meta name="color-scheme" content="light">
+      <meta name="supported-color-schemes" content="light">
+    </mj-raw>
+    <mj-style>
+      @media screen and (max-width: 480px) {
+        .aligned div {
+          text-align: center !important;
+        }
+
+        .aligned table {
+          margin: auto !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+
+    <!-- Header Section -->
+
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        <mj-image padding="0px" align="center" width="100px" src="https://i.ibb.co/bFLWcXJ/logo2332022.png" alt="logo" />
+        <mj-text line-height="28px" padding="20px 10px 5px 10px" align="center" font-size="23px" font-weight="bold">THANKS, SMILES DAVIS!</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Text Header Section -->
+
+    <mj-section padding="0px">
+      <mj-column width="480px">
+        <mj-text line-height="20px" align="center" font-size="14px">We'll let you know when your gear is on the way. Why not add us on IG while you're waiting?</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Middle IG Image Section -->
+
+    <mj-section padding="0px 0px 20px 0px">
+      <mj-column>
+        <mj-image padding="0px" href="https://sidhant.ml" width="350px" src="https://i.ibb.co/YjGjMpr/IG3232022.png" alt="IG" />
+        <mj-button href="https://sidhant.ml" font-size="12px" font-weight="bold" border-radius="0px" background-color="#CC092F">CHECK ORDER STATUS</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Shop Images Section 1 -->
+
+    <mj-section padding="10px">
+      <mj-column width="50%">
+        <mj-image css-class="aligned" padding="0px 15px" align="right" href="https://sidhant.ml" width="120px" src="https://i.ibb.co/XtjQv8x/c1-3232022.jpg" alt="c1" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text css-class="aligned" padding="0px 15px" font-size="12px" line-height="17px">
+          <strong> MADRONA 5 POCKET SHORT </strong> <br>
+          Quantity: 1 <br>
+          Color: Black <br>
+          Size: 32 <br>
+          Reg Price: <strike> $90.00 </strike> <br>
+          Sale Price: <span style="color:#CC092F"> $72.00 </span> <br>
+          <strong> Item Subtotal: $72.00 <strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Shop Images Section 2 -->
+
+    <mj-section padding="10px">
+      <mj-column width="50%">
+        <mj-image css-class="aligned" padding="0px 15px" align="right" href="https://sidhant.ml" width="120px" src="https://i.ibb.co/RhWMYwF/c2-3232022.jpg" alt="c2" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text css-class="aligned" padding="0px 15px" font-size="12px" line-height="17px">
+          <strong> MADRONA 5 POCKET SHORT </strong> <br>
+          Quantity: 1 <br>
+          Color: Black <br>
+          Size: 32 <br>
+          Reg Price: <strike> $90.00 </strike> <br>
+          Sale Price: <span style="color:#CC092F"> $72.00 </span> <br>
+          <strong> Item Subtotal: $72.00 <strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Shop Images Section 3 -->
+
+    <mj-section padding="10px">
+      <mj-column width="50%">
+        <mj-image css-class="aligned" padding="0px 15px" align="right" href="https://sidhant.ml" width="120px" src="https://i.ibb.co/XVW1KS5/c3-3232022.jpg" alt="c3" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text css-class="aligned" padding="0px 15px" font-size="12px" line-height="17px">
+          <strong> NATOMA SHORT 2.0 </strong> <br>
+          Quantity: 1 <br>
+          Color: Dusty Olive <br>
+          Size: 32 <br>
+          Reg Price: <strike> $100.00 </strike> <br>
+          Sale Price: <span style="color:#CC092F"> $80.00 </span> <br>
+          <strong> Item Subtotal: $80.00 <strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Shop Images Section 4 -->
+
+    <mj-section padding="10px">
+      <mj-column width="50%">
+        <mj-image css-class="aligned" padding="0px 15px" align="right" href="https://sidhant.ml" width="120px" src="https://i.ibb.co/LYbJ9wV/c4-3232022.jpg" alt="c4" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text css-class="aligned" padding="0px 15px" font-size="12px" line-height="17px">
+          <strong> KADET SLING BAG </strong> <br>
+          Quantity: 1 <br>
+          Color: Black / Aluminum <br>
+          Size: NA <br>
+          Reg Price: <strike> $80.00 </strike> <br>
+          Sale Price: <span style="color:#CC092F"> $64.00 </span> <br>
+          <strong> Item Subtotal: $64.00 <strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider Section -->
+
+    <mj-section padding="10px">
+      <mj-column>
+        <mj-divider border-width="2px" border-color="#E0E0E0" />
+        <mj-text font-size="12px" align="center" line-height="19px">
+          <strong style="font-size:13px"> ORDER #: RGE6500650065 </strong> <br>
+          Order Date: 04/22/2020 <br>
+          Shipping Method: UPS - Ground
+        </mj-text>
+        <mj-text font-size="12px" align="center" line-height="19px">
+          <strong style="font-size:13px"> SHIPPING ADDRESS </strong> <br>
+          Smiles Davis <br>
+          600 Montgomery St <br>
+          San Franscisco, CA 9411 <br>
+          United States
+        </mj-text>
+        <mj-text font-size="12px" align="center" line-height="22px">
+          <strong style="font-size:13px"> ORDER SUMMARY </strong> <br>
+          SUBTOTAL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $360.00 <br>
+          YOUR SAVINGS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:red;"> -$72.00 </span> <br>
+          SHIPPING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $0.00 <br>
+          TAX &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $0.00 <br>
+          <strong>TOTAL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $288.00 </strong><br>
+        </mj-text>
+        <mj-text font-size="12px" align="center" line-height="19px">
+          <strong style="font-size:13px"> PAYMENT DETAILS </strong> <br>
+          PAYMENT METHOD: VISA <br>
+          AMOUNT: $288.00
+        </mj-text>
+        <mj-text font-size="14px" align="center" line-height="25px">
+          <strong style="font-size:20px"> NEED HELP? HIT US UP. </strong> <br>
+          support@chromeindustries.com
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Shoping CTA Section -->
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image href="https://sidhant.ml" width="400px" padding="0px" src="https://i.ibb.co/0cQHNdv/footer-img-3232022.png" alt="Share the Stoke" />
+        <mj-divider border-width="1px" />
+        <mj-image href="https://sidhant.ml" width="400px" padding="0px" src="https://i.ibb.co/BqnP15L/shop-bags.png" alt="Shop Bag" />
+        <mj-divider border-width="1px" />
+        <mj-image href="https://sidhant.ml" width="400px" padding="0px" src="https://i.ibb.co/10pYBSr/shop-clothing.png" alt="shop-clothing" />
+        <mj-divider border-width="1px" />
+        <mj-image href="https://sidhant.ml" width="400px" padding="0px" src="https://i.ibb.co/F6fR43K/shop-footwear.png" alt="Shop-footwear" />
+        <mj-divider border-width="1px" />
+        <mj-image href="https://sidhant.ml" width="400px" padding="20px" src="https://i.ibb.co/7vxQzZ5/footer-city-img.png" alt="city-names" />
+        <mj-image href="https://sidhant.ml" width="400px" padding="0px" src="https://i.ibb.co/b6MNt68/Free-US-shipping-img.png" alt="city-names" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Shoping CTA Section -->
+
+    <mj-section padding="5px">
+      <mj-column>
+        <mj-text font-size="12px" align="center" line-height="19px">
+          <strong> QUESTIONS? ASK OUR GEAR FITTERS </strong> <br>
+          support@chromeindustries.com <br>
+          <strong style="font-size:12px"> M-TH: </strong> 9am - 5pm PT <strong style="font-size:12px"> FRI: </strong> 9am - 2pm PT
+        </mj-text>
+        <mj-text font-size="10px" align="center" line-height="19px">
+          © 2020 Chrome Industries | 1734 NW 15th Ave. Portland, OR 97209 <br>
+          You're receiving this email because you signed up for Chrome updates using the address hello@SmilesDavis.yeah. <br>
+          If you want to unsubscribe from our mailing list, unsubscribe <a style="color:#000000!important;" href="https://sidhant.ml" target="_blank"> here. </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
